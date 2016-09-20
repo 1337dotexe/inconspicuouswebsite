@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+
+h1 {color:black;}
+h5 {color:red;}
+p {color:blue;}
+
+</style>
+</head>
+<body>
+
+<h1>Aye, What's up?</h1>
+<h5>(hopefully this website)</h5>
+<p>Hi, my name is Spencer. This is my website. It might be a little bland, but it's a work in progress.</p>
+
+</body>
+</html>
